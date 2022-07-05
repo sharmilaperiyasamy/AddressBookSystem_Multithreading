@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Address_Book_MultiThreading", "Address_Book_MultiThreading\Address_Book_MultiThreading.csproj", "{B8704544-E8FB-401B-A634-5156655527D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAddress_MultiThreading", "TestAddress_MultiThreading\TestAddress_MultiThreading.csproj", "{5F0A3171-B2BF-45CF-B9D5-5969CB7F1E48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8704544-E8FB-401B-A634-5156655527D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8704544-E8FB-401B-A634-5156655527D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8704544-E8FB-401B-A634-5156655527D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8704544-E8FB-401B-A634-5156655527D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F0A3171-B2BF-45CF-B9D5-5969CB7F1E48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F0A3171-B2BF-45CF-B9D5-5969CB7F1E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F0A3171-B2BF-45CF-B9D5-5969CB7F1E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F0A3171-B2BF-45CF-B9D5-5969CB7F1E48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E40FE7E-1E16-4CD5-B3D8-D869138BAC32}
+	EndGlobalSection
+EndGlobal
